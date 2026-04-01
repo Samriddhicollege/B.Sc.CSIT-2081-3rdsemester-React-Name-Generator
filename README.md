@@ -9,7 +9,7 @@
 ## Student Information
 
 * **Name:** Samana Neupane
-* **Roll Number:** [Roll Number]
+* **Roll Number:** 19
 * **Course / Program:** B.Sc. CSIT
 * **Semester / Year:** 3rd Semester / 2026
 
@@ -150,7 +150,7 @@ App
 ## GitHub & Live Demo
 
 * **GitHub Repository:** https://github.com/Samriddhicollege/B.Sc.CSIT-2081-3rdsemester-React-Name-Generator
-* **Live URL (Firebase):** https://sa-name-generator.web.app/
+* **Live URL (Firebase):** https://sa-name-generator.web.app
 
 ---
 
