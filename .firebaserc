@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "default": "sa-name-generator"
+  },
+  "targets": {
+    "sa-name-generator": {
+      "hosting": {
+        "site": "sa-name-generator"
+      }
+    }
+  }
+}
